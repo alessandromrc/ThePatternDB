@@ -11602,7 +11602,7 @@
         "SET_BOAT_IGNORE_LAND_PROBES": {
             "pattern": "E9 F3 16 D9 02 55 48 8D 2D E3 F6 B2 02 48 87 2C"
         },
-        "_0x85FC953F6C6CBDE1": {
+        "_SET_BOUNDS_AFFECT_WATER_PROBES": {
             "pattern": "E9 D6 B4 AD 00 84 C0 0F 84 CA F8 40 00 E9 40 37"
         },
         "SET_BOAT_ANCHOR": {
